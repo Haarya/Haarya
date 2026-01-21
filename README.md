@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# 💫 About Me:
+# 👨‍💻 About Me:
 🔭 I’m a second year engineering student <br>👯 I’m looking to collaborate on Web development projects<br>🌱 I’m currently learning Backend Development<br>⚡  I treat code as a craft, not a commodity.
 
 
