@@ -29,14 +29,12 @@
 
 <p align="left">
   <a href="https://github.com/Haarya">
-    <img src="https://github-readme-stats.vercel.app/api?username=Haarya&show_icons=true&theme=dark" height="180em" alt="Haarya's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haarya&show_icons=true&theme=dark" height="180em" alt="Haarya's GitHub Stats" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Haarya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haarya&layout=compact&theme=dark" height="180em" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haarya&layout=compact&theme=dark" height="180em" alt="Top Languages" />
   </a>
 </p>
-
----
