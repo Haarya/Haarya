@@ -24,7 +24,7 @@ I code because I genuinely enjoy it and not for the paycheck. For me, programmin
 
 <div align="center">
 
-### � Languages
+### 🚀 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
