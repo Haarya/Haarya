@@ -48,7 +48,7 @@ I code because I genuinely enjoy it and not for the paycheck. For me, programmin
 ### 🛠️ IDEs & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
-  <img src="./antigravity-logo.png" height="50" alt="Antigravity" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTmZQ5xRHAc54u3REe0e4arTogaKOGfoKYNgvY6Ok16hN3ml3_UsPs0LhFZwym1lnioGZ8gZBUViA3hjvj2MtG6I&s&ec=121528441" height="50" alt="Antigravity" />
   <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="Netlify" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
