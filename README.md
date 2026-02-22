@@ -60,21 +60,22 @@ I code because I genuinely enjoy it and not for the paycheck. For me, programmin
 
 </div>
 
-# 📊 GitHub Stats:
-<p align="left">
+<h1 align="center">📊 GitHub Stats</h1>
+<p align="center">
   <a href="https://github.com/Haarya">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haarya&theme=tokyo-night&area=true&hide_border=true" width="90%" alt="Haarya's activity graph" />
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/Haarya">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haarya&show_icons=true&theme=dark" height="180em" alt="Haarya's GitHub Stats" />
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Haarya&theme=dark&hide_border=false" height="180em" alt="Haarya's GitHub Streak" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Haarya">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haarya&layout=compact&theme=dark" height="180em" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Haarya&layout=compact&theme=dark" height="180em" alt="Top Languages" />
   </a>
 </p>
