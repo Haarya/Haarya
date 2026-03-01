@@ -5,7 +5,6 @@
 # Hey there, I'm Aarya Haldavanekar! 
 
 **Welcome to my GitHub profile!** I'm passionate about coding, innovating, and entrepreneurship.
-
 I code because I genuinely enjoy it and not for the paycheck. For me, programming is more than just writing code. It's a creative outlet where I can turn ideas into real solutions. Every project is a new adventure, a chance to learn something new, and an opportunity to build things that actually matter. I'm all about the craft, the challenge, and the joy of solving problems through technology.
 
 ---
