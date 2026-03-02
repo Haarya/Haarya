@@ -55,6 +55,7 @@ I code because I genuinely enjoy it and not for the paycheck. For me, programmin
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
 </p>
 
 </div>
