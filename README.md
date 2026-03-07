@@ -69,8 +69,8 @@ I code because I genuinely enjoy it and not for the paycheck. For me, programmin
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Haarya&theme=dark&hide_border=false" height="180em" alt="Haarya's GitHub Streak" />
+  <a href="https://github.com/Haarya">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Haarya&theme=dark&hide_border=false&cache_seconds=86400" height="180em" alt="Haarya's GitHub Streak" />
   </a>
 </p>
 
