@@ -10,9 +10,9 @@ I code because I genuinely enjoy it and not for the paycheck. For me, programmin
 ---
 
 # 👨‍💻 About Me:
-🎓 Second-year engineering student with a passion for technology<br>
+🎓 Third-year engineering student with a passion for technology<br>
 🤝 Open to collaborating on exciting web development projects<br>
-📖 Currently diving deep into backend development<br>
+📖 Currently diving deep into Machine Learning<br>
 💡 Building innovative solutions, one commit at a time
 
 
